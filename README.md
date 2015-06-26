@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter on OpenShift #
 This QuickStart was created to make it easy to get started with CodeIgniter 2 
 on OpenShift.
@@ -156,3 +157,6 @@ Documentation for the CodeIgniter framework can be found on the
 [CodeIgniter website](http://www.codeigniter.com/user_guide/). Check out 
 OpenShift's [Developer Portal](https://developers.openshift.com/en/php-overview.html) 
 for help running PHP on OpenShift.
+=======
+# php
+>>>>>>> dcf3d5cb098cc427458ba9d4c13f7d080f0c1a37
