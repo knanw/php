@@ -1,4 +1,5 @@
 <?php
+echo "hi";
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
@@ -49,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                       <li>
-                        <a href="<?php echo base_url(); ?>index.php/shop/index">Boards</a>
+                        <a href="<?php echo base_url(); ?>shop/index">Boards</a>
                     </li>
                     <li>
                         <a href="">Create board</a>
